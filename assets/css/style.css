@@ -1,0 +1,17 @@
+/* Styles for the Seller Sync Addon */
+.wds_sync-settings {
+    margin-top: 20px;
+}
+
+.wds_sync-settings h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.wds_sync-settings .form-table {
+    width: 100%;
+}
+
+.wds_sync-settings .regular-text {
+    width: 50%;
+}
